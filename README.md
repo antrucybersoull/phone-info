@@ -43,7 +43,7 @@ $ python3 phone.py
 
 
 
-<center><img width="200px" hight="90px"src="https://i.ibb.co/6BzF2h2/Screenshot-at-2021-09-10-19-48-56.png" alt="Screenshot-at-2021-09-10-19-48-56"></center>
+<center><img width="270px" hight="130px"src="https://i.ibb.co/6BzF2h2/Screenshot-at-2021-09-10-19-48-56.png" alt="Screenshot-at-2021-09-10-19-48-56"></center>
 
 
 
