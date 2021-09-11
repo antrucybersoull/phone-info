@@ -6,16 +6,32 @@
 LINUX
 
 $ git clone https://github.com/antrucybersoull/phone-info
+
+
 $ cd phone-info
+
+
 $ python3 phone.py
+
+
 
 TERMUX
 
 $ pkg install python
+
+
 $ pkg install python3
+
+
 $ pkg install git
+
+
 $ git clone https://github.com/antrucybersoull/phone-info
+
+
 $ cd phone-info
+
+
 $ python3 phone.py
 
 
