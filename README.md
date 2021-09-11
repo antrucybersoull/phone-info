@@ -37,7 +37,13 @@ $ python3 phone.py
 
 
 
-[+] EXAMPLE [+]
+[+] RESULT [+]
+
+
+
+
+
+<center><img width="180px" hight="30px"src="https://i.ibb.co/6BzF2h2/Screenshot-at-2021-09-10-19-48-56.png" alt="Screenshot-at-2021-09-10-19-48-56"></center>
 
 
 
@@ -47,24 +53,3 @@ $ python3 phone.py
 
 
 
-
-
-
-
-
-
-
-
-        Made by A N ⃢T RU_ᴄʏᷧʙᷠᴇͭʀͬ_sͧᴏᴜʟ       
-    _          _              
-   / \   _ __ | |_ _ __ _   _ 
-  / _ \ | '_ \| __| '__| | | |
- / ___ \| | | | |_| |  | |_| |
-/_/   \_\_| |_|\__|_|   \__,_|
-                              
-Enter mobile number with country code : +642786777777
-('Pacific/Auckland', 'Pacific/Chatham')
-Spark
-New Zealand
-Valid phone number :  True
-Checking possibility of number :  True
